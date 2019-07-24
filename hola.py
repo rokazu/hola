@@ -1,3 +1,5 @@
-hola = "hola"
+def saludar(cadena):
+	print(cadena)
 
-print(hola)
+saludar('Hola coders')
+
